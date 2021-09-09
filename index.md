@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Matthew Cassidy"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi, my name is Matthew Cassidy.
